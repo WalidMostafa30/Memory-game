@@ -40,7 +40,7 @@ A fun and interactive **Memory Game** built with **HTML**, **CSS**, and **JavaSc
 ---
 
 ## Live Demo 🌐  
-//
+https://walidmostafa30.github.io/Memory-game/
 
 ## Screenshot 📸  
-//
+![memoryGame](https://github.com/user-attachments/assets/47dbf318-48cd-4e38-b8c1-4a887ea8676c)
